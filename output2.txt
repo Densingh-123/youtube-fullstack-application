@@ -1,0 +1,57 @@
+﻿============================================================
+  YouTube.js (youtubei.js) v17 ΓÇö LIVE DEMO
+  Framework: Node.js ESM + TypeScript library
+  No API Key | No paid service | 100% Free
+============================================================
+
+[1/5] Creating InnerTube session...
+Γ£à Session created successfully!
+
+[2/5] Searching for "YouTube Shorts 2024"...
+Γ£à Found 50 results:
+
+  1. Trying not to laugh! ≡ƒñú≡ƒñú (4k memes) #shorts.  click the blue Join button to support my animations
+     ID: sxmTTS4qros | Author: Rico Animations
+  2. She made from balloon≡ƒºÅΓÇìΓÖÇ∩╕Å≡ƒÄê #shorts #funny
+     ID: 6pr71BzMzMw | Author: CuRe Ω╡¼δ₧ÿ
+  3. Sagawa1gou funny video ≡ƒÿé≡ƒÿé≡ƒÿé | SAGAWA Best TikTok 2024 #shorts
+     ID: Mu9eUT7WS8s | Author: Sagawa /πüòπüîπéÅ
+  4. Reality≡ƒÿé #azhar2408 #shorts #funny #comedy #youtube
+     ID: mZaxajYPz2o | Author: Azhar2408
+  5. Bhandara karana h bhai ≡ƒÿü≡ƒÿé || @a@aramcomedy11shorts #funny #prankvideo #viralshorts #trending
+     ID: 15kbh83TNYY | Author: Aram comedy
+
+[3/5] Getting search autocomplete suggestions for "shorts"...
+Γ£à Suggestions:
+  1. shorts
+  2. shorts for girls
+  3. shorts for kids
+  4. shorts youtube
+  5. shorts funny
+  6. shorts for toddlers
+
+[4/5] Fetching full info for video ID: sxmTTS4qros...
+Γ£à Video Details:
+  Title      : Trying not to laugh! ≡ƒñú≡ƒñú (4k memes) #shorts.  click the blue Join button to support my animations
+  Channel    : Rico Animations
+  Views      : 20,18,93,000
+  Likes      : N/A
+  Duration   : 9 seconds
+  Is Live    : false
+  Description: undefined...
+
+[5/5] Fetching MrBeast channel info...
+Γ£à Channel Info:
+  Name       : MrBeast
+  Subscribers: undefined
+  Description: SUBSCRIBE FOR A COOKIE! New MrBeast or MrBeast Gaming video every single Saturday at noon eastern ti...
+
+  Latest Videos:
+  1. Trapped On An Island Until I Build A Boat
+  2. Survive 30 Days Stranded With Your Ex, Win $250,000
+  3. I Built 10 Schools Around The World
+
+============================================================
+  Γ£à ALL DONE! YouTube.js is working perfectly.
+  No API key was used. 100% Free. MIT License.
+============================================================
